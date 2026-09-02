@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qA4MIsAj77I=",
+  "success": true,
+  "projectFilePath": "/home/dan/Misc/Plan/src/Aplicacion/Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "/home/dan/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
