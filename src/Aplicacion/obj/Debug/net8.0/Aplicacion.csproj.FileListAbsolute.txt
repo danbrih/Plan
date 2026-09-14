@@ -1,5 +1,12 @@
+/mnt/Datos/Repos/Plan/src/Aplicacion/bin/Debug/net8.0/Aplicacion.deps.json
+/mnt/Datos/Repos/Plan/src/Aplicacion/bin/Debug/net8.0/Aplicacion.dll
+/mnt/Datos/Repos/Plan/src/Aplicacion/bin/Debug/net8.0/Aplicacion.pdb
 /mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
 /mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfoInputs.cache
 /mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfo.cs
 /mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.csproj.CoreCompileInputs.cache
 /mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.sourcelink.json
+/mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.dll
+/mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/refint/Aplicacion.dll
+/mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/Aplicacion.pdb
+/mnt/Datos/Repos/Plan/src/Aplicacion/obj/Debug/net8.0/ref/Aplicacion.dll
