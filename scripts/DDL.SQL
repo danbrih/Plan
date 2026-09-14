@@ -1,0 +1,18 @@
+CREATE DATABASE IF NOT EXISTS juego_db;
+USE juego_db;
+
+CREATE TABLE IF NOT EXISTS Personaje (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(50) NOT NULL,
+    Tipo VARCHAR(20) NOT NULL,
+    Vida INT NOT NULL CHECK (Vida >= 0),
+    Ataque INT NOT NULL CHECK (Ataque > 0),
+    Defensa INT NOT NULL CHECK (Defensa >= 0)
+);
+
+CREATE TABLE IF NOT EXISTS Batalla (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Fecha DATETIME NOT NULL,
+    GanadorId INT,
+    FOREIGN KEY (GanadorId) REFERENCES Personaje(Id)
+);
