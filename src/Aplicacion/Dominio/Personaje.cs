@@ -5,10 +5,13 @@ public abstract class Personaje
     public int Id { get; set; }
     public string Nombre { get; set; } = string.Empty;
     public int Vida { get; set; }
+    public int VidaMaxima { get; set; }
     public int Ataque { get; set; }
     public int Defensa { get; set; }
 
+    public abstract string Tipo { get; }
     public abstract int CalcularDano();
+    public abstract int UsarHabilidad();
 
     public virtual void RecibirDano(int cantidad)
     {
@@ -17,4 +20,6 @@ public abstract class Personaje
         Vida -= danoReal;
         if (Vida < 0) Vida = 0;
     }
+
+    public bool EstaVivo() => Vida > 0;
 }

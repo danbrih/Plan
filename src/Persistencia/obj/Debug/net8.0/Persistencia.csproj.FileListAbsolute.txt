@@ -1,0 +1,16 @@
+/mnt/Datos/Repos/Plan/src/Persistencia/bin/Debug/net8.0/Persistencia.deps.json
+/mnt/Datos/Repos/Plan/src/Persistencia/bin/Debug/net8.0/Persistencia.dll
+/mnt/Datos/Repos/Plan/src/Persistencia/bin/Debug/net8.0/Persistencia.pdb
+/mnt/Datos/Repos/Plan/src/Persistencia/bin/Debug/net8.0/Aplicacion.dll
+/mnt/Datos/Repos/Plan/src/Persistencia/bin/Debug/net8.0/Aplicacion.pdb
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.csproj.AssemblyReference.cache
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.AssemblyInfoInputs.cache
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.AssemblyInfo.cs
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.csproj.CoreCompileInputs.cache
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.sourcelink.json
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persiste.7F7D6998.Up2Date
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.dll
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/refint/Persistencia.dll
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/Persistencia.pdb
+/mnt/Datos/Repos/Plan/src/Persistencia/obj/Debug/net8.0/ref/Persistencia.dll

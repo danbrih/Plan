@@ -30,4 +30,17 @@ public class CombateServiceTests
 
         Assert.Equal(5, mago.Mana);
     }
+
+    [Fact]
+    public void AsesinoCalculaDanioPolimorfico()
+    {
+        var asesino = new Asesino { Nombre = "Ezio", Ataque = 15, Defensa = 0, Vida = 60 };
+        var guerrero = new Guerrero { Nombre = "Conan", Ataque = 10, Defensa = 5, Vida = 100 };
+        var service = new CombateService();
+
+        int dano = service.EjecutarTurno(asesino, guerrero);
+
+        Assert.Equal(30, dano);
+        Assert.Equal(75, guerrero.Vida);
+    }
 }
