@@ -1,0 +1,42 @@
+# Compilación .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# IDEs y editores
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*~
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.temp
+
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Local.json
+
+# Certificados y claves privadas
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Cobertura de tests
+TestResults/
+coverage/
+coverage.*
+
+# Archivos de respaldo locales
+*.bak
+*.old
